@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "cas.server.name",
+      "type": "java.lang.String",
+      "description": "Description for cas.server.name."
+    },
+    {
+      "name": "cas.authn.accept.users",
+      "type": "java.lang.String",
+      "description": "Description for cas.authn.accept.users."
+    },
+    {
+      "name": "cas.authn.jdbc.query[0].driver-class",
+      "type": "java.lang.String",
+      "description": "Description for cas.authn.jdbc.query[0].driver-class."
+    }
+  ] }
